@@ -46,8 +46,8 @@ Model pipeline içeriği:
 
 ## 🎯 **Accuracy**
 
-Test Accuracy: ~80%+
-ROC-AUC: ~0.88+
+Test Accuracy: 0.7333
+ROC-AUC Skoru: 0.7548
 
 
 Skorlar veri bölünmesine göre değişebilir.
